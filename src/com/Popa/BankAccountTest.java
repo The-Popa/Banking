@@ -1,4 +1,4 @@
-pepackage com.Popa;
+package com.Popa;
 
 import static org.junit.Assert.*;
 
